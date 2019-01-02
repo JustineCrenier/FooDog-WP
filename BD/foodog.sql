@@ -27,7 +27,7 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `wp_commentmeta`
 --
-
+USE foodog;
 CREATE TABLE `wp_commentmeta` (
   `meta_id` bigint(20) UNSIGNED NOT NULL,
   `comment_id` bigint(20) UNSIGNED NOT NULL DEFAULT '0',
