@@ -1,0 +1,1020 @@
+# Copyright (C) 2017 CreateandCode
+# This file is distributed under the same license as the CreateandCode package.
+msgid ""
+msgstr ""
+"Project-Id-Version: CreateandCode\n"
+"Report-Msgid-Bugs-To: https://createandcode.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Simon Tomkins <support@createandcode.com>\n"
+"Language-Team: CreateandCode Team <support@createandcode.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found"
+msgstr ""
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: comments.php:29
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:43, comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:45, comments.php:62
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:46, comments.php:63
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:39
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:39
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:41
+msgid "Theme: %2$s by %1$s."
+msgstr ""
+
+#: footer.php:52
+msgid "Back to top"
+msgstr ""
+
+#: functions.php:54
+msgid "Kirki"
+msgstr ""
+
+#: functions.php:86
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:87
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:88
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:89
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:90
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:91
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:92
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:93
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:94
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:95
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:96
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:97
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:98
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:99
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:100
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:101
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:102
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:155
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:156
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:219
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:221
+msgid "Main sidebar."
+msgstr ""
+
+#: functions.php:229
+msgid "Post Sidebar"
+msgstr ""
+
+#: functions.php:231
+msgid "This widget appears on an individual post."
+msgstr ""
+
+#: functions.php:239
+msgid "Home Sidebar"
+msgstr ""
+
+#: functions.php:241
+msgid "This widget area appears on the homepage."
+msgstr ""
+
+#: functions.php:249
+msgid "Pages Sidebar"
+msgstr ""
+
+#: functions.php:251
+msgid "This widget area appears on pages only."
+msgstr ""
+
+#: functions.php:259, inc/customizer/sections/color.php:27
+msgid "Footer"
+msgstr ""
+
+#: functions.php:261
+msgid "The footer widget area."
+msgstr ""
+
+#: inc/customizer/fields/color.php:17
+msgid "Primary Swatch Color"
+msgstr ""
+
+#: inc/customizer/fields/color.php:18
+msgid "Select the primary color of your brand."
+msgstr ""
+
+#: inc/customizer/fields/color.php:90
+msgid "Text on the primary swatch"
+msgstr ""
+
+#: inc/customizer/fields/color.php:91
+msgid "Select the color of text on the primary swatch. (Usually white or black)"
+msgstr ""
+
+#: inc/customizer/fields/color.php:126
+msgid "General links"
+msgstr ""
+
+#: inc/customizer/fields/color.php:127
+msgid "Select your general links color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:169
+msgid "Swatch color behind sidebar headings"
+msgstr ""
+
+#: inc/customizer/fields/color.php:170
+msgid "Select your color behind the sidebar titles."
+msgstr ""
+
+#: inc/customizer/fields/color.php:193
+msgid "General link hover"
+msgstr ""
+
+#: inc/customizer/fields/color.php:194
+msgid "Select your general link hover color."
+msgstr ""
+
+#: inc/customizer/fields/general.php:17, inc/customizer/sections/general.php:13
+msgid "Logo Height"
+msgstr ""
+
+#: inc/customizer/fields/general.php:18
+msgid "Adjust the height of your logo in pixels."
+msgstr ""
+
+#: inc/customizer/fields/layout.php:17
+msgid "Show the carousel?"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:18
+msgid "Show or hide the homepage carousel."
+msgstr ""
+
+#: inc/customizer/fields/layout.php:24, inc/customizer/fields/layout.php:87, inc/customizer/fields/layout.php:118, inc/customizer/fields/layout.php:134, inc/customizer/fields/layout.php:150
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:25, inc/customizer/fields/layout.php:88, inc/customizer/fields/layout.php:119, inc/customizer/fields/layout.php:135, inc/customizer/fields/layout.php:151
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:33
+msgid "Category displayed in the carousel"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:34
+msgid "Choose which category to display in the carousel."
+msgstr ""
+
+#: inc/customizer/fields/layout.php:49
+msgid "Carousel number of posts"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:50
+msgid "Set the number of posts to display in the carousel."
+msgstr ""
+
+#: inc/customizer/fields/layout.php:64
+msgid "Number of slides to show at once"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:65
+msgid "Set the number of slides to display at once."
+msgstr ""
+
+#: inc/customizer/fields/layout.php:80
+msgid "Show the Excerpt?"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:81
+msgid "Show or hide the excerpt?"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:96
+msgid "Blog Archive Excerpt Length"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:97
+msgid "Set the number of words for your blog excerpt. Default is 30."
+msgstr ""
+
+#: inc/customizer/fields/layout.php:111
+msgid "Show the Author?"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:112
+msgid "Show or hide the author?"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:127
+msgid "Show the Share Features?"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:128
+msgid "Show or hide the sharing features?"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:143
+msgid "Show Footer?"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:144
+msgid "Show or hide the footer?"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:17
+msgid "Header background"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:18
+msgid "Select your header background color."
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:42
+msgid "Site title"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:43
+msgid "Select your site title color."
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:67
+msgid "Site description"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:68
+msgid "Select your site description color."
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:92
+msgid "Header Height"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:93
+msgid "Adjust the header height"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:125
+msgid "Sticky Navigation"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:126
+msgid "Stick the navigation on scroll"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:132
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:133
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:141
+msgid "Main Navigation Links Color"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:142
+msgid "Select your main menu links color."
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:174
+msgid "Main Menu Links Hover/Selected Color"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:175
+msgid "Select your main menu links hover/selected color."
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:211
+msgid "Navigation Line Height"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:212
+msgid "Adjust the line height"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:239
+msgid "Level 1 Font settings"
+msgstr ""
+
+#: inc/customizer/fields/mainmenu.php:262
+msgid "Level 2 Font settings"
+msgstr ""
+
+#: inc/customizer/fields/typography.php:14
+msgid "Font settings"
+msgstr ""
+
+#: inc/customizer/fields/typography.php:38, inc/customizer/fields/typography.php:82, inc/customizer/fields/typography.php:108, inc/customizer/fields/typography.php:135, inc/customizer/fields/typography.php:162, inc/customizer/fields/typography.php:189, inc/customizer/fields/typography.php:216, inc/customizer/fields/typography.php:242, inc/customizer/fields/typography.php:268
+msgid "Font Settings"
+msgstr ""
+
+#: inc/customizer/fields/typography.php:39, inc/customizer/fields/typography.php:83, inc/customizer/fields/typography.php:109, inc/customizer/fields/typography.php:136, inc/customizer/fields/typography.php:163, inc/customizer/fields/typography.php:190, inc/customizer/fields/typography.php:217, inc/customizer/fields/typography.php:243, inc/customizer/fields/typography.php:269
+msgid "Select which font you would like to use"
+msgstr ""
+
+#: inc/customizer/fields/typography.php:64
+msgid "Headings and Main Menu"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:14
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:15
+msgid "Manage general theme settings"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:19
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:20
+msgid "Manage theme colors"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:24
+msgid "Header & Navigation"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:25
+msgid "Manage the header and navigation"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:29
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:30
+msgid "Manage theme typography"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:34
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:35
+msgid "Manage theme header, footer and more"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:39
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:40
+msgid "Manage blog settings"
+msgstr ""
+
+#: inc/customizer/sections/color.php:13
+msgid "General"
+msgstr ""
+
+#: inc/customizer/sections/color.php:16
+msgid "Manage general colors"
+msgstr ""
+
+#: inc/customizer/sections/color.php:20
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/sections/color.php:23
+msgid "Manage header colors"
+msgstr ""
+
+#: inc/customizer/sections/color.php:30
+msgid "Manage footer colors"
+msgstr ""
+
+#: inc/customizer/sections/general.php:16
+msgid "Modify the height of your logo"
+msgstr ""
+
+#: inc/customizer/sections/general.php:20
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/sections/general.php:23
+msgid "Manage your Footer copyright text"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:13
+msgid "Homepage Settings"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:16
+msgid "Manage the Homepage"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:20
+msgid "Blog Archive Settings"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:23
+msgid "Manage the Blog Archive"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:27
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:30
+msgid "Manage the Single Post"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:34
+msgid "Footer Layout Settings"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:37
+msgid "Manage Footer Layout"
+msgstr ""
+
+#: inc/customizer/sections/mainmenu.php:13
+msgid "Header Colors"
+msgstr ""
+
+#: inc/customizer/sections/mainmenu.php:16
+msgid "Manage the Header Colors"
+msgstr ""
+
+#: inc/customizer/sections/mainmenu.php:21
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer/sections/mainmenu.php:24
+msgid "Manage the Header Layout"
+msgstr ""
+
+#: inc/customizer/sections/mainmenu.php:29
+msgid "Main Navigation Layout"
+msgstr ""
+
+#: inc/customizer/sections/mainmenu.php:32
+msgid "Manage the Main Navigation Layout"
+msgstr ""
+
+#: inc/customizer/sections/mainmenu.php:37
+msgid "Main Navigation Colors"
+msgstr ""
+
+#: inc/customizer/sections/mainmenu.php:40
+msgid "Manage the Main Navigation Colors"
+msgstr ""
+
+#: inc/customizer/sections/typography.php:13
+msgid "Main Body"
+msgstr ""
+
+#: inc/customizer/sections/typography.php:16
+msgid "Font for the main body text"
+msgstr ""
+
+#: inc/customizer/sections/typography.php:21
+msgid "Menu and Headings"
+msgstr ""
+
+#: inc/customizer/sections/typography.php:24
+msgid "Font for the menu and headings"
+msgstr ""
+
+#: inc/customizer/sections/typography.php:29
+msgid "Paragraphs"
+msgstr ""
+
+#: inc/customizer/sections/typography.php:32
+msgid "Font for the paragraphs"
+msgstr ""
+
+#: inc/include-kirki.php:46
+msgid "The Kirki Toolkit plugin is installed but not activated. Please <strong><a href=\"%s\">activate it</a></strong> in order to take full advantage of the theme's options."
+msgstr ""
+
+#: inc/include-kirki.php:66
+msgid "If you want to take full advantage of the options this theme has to offer, please install the companion Kirki Toolkit plugin."
+msgstr ""
+
+#: inc/setup/help.php:46
+msgid "Thanks for choosing jefferson! You can read hints and tips on how get the most out of your new theme in the %1$sHelp Centre%2$s."
+msgstr ""
+
+#: inc/setup/help.php:47
+msgid "Get started with jefferson"
+msgstr ""
+
+#: inc/setup/help.php:67, inc/setup/help.php:67
+msgid "jefferson Help"
+msgstr ""
+
+#: inc/setup/help.php:79
+msgid "jefferson Help Centre"
+msgstr ""
+
+#: inc/setup/help.php:80
+msgid "Everything you need to know to get the most out of jefferson."
+msgstr ""
+
+#: inc/setup/help.php:82
+msgid "Getting Started"
+msgstr ""
+
+#: inc/setup/help.php:83
+msgid "Free vs Pro"
+msgstr ""
+
+#: inc/setup/help.php:84, inc/setup/sections/themeclub.php:16
+msgid "Theme Club and Discount"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:16
+msgid "Need More? Go PRO"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:17
+msgid "Take it to the next level. See the differences below:"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:23, inc/setup/sections/freepro.php:24
+msgid "jefferson"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:24
+msgid "PRO"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:31
+msgid "Beautiful Design"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:32
+msgid "We have been designing websites professionally for over 15 years. We understand clean, modern design with gorgeous typography and stylish details and bring it to each theme we create."
+msgstr ""
+
+#: inc/setup/sections/freepro.php:44
+msgid "Mobile-Ready and Responsive for All Devices"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:45
+msgid "From the outset, we have built the theme with mobile devices in mind – it looks fantastic and is quick to navigate on both tablets and phones. Your website deserves to be seen on every kind of device and we’ve ensured that’s the case."
+msgstr ""
+
+#: inc/setup/sections/freepro.php:57
+msgid "Social Integration and Sticky Menu"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:58
+msgid "The top menu includes a theme option allowing it to stick at the top so that it is always available to the user when scrolling. Plus, with a social menu you can easily include links to your social media profiles."
+msgstr ""
+
+#: inc/setup/sections/freepro.php:70
+msgid "Personalize to Match Your Style - includes both Grid and List Layouts"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:71
+msgid "In the Pro version you get far more options to tweak the styling including changing the main navigation layout colors, adjusting the layout, switching on/off sidebars, and tweaking each typography selector such as headings, paragraphs and body copy. Get ultimate control with Pro!"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:83
+msgid "Featured Posts Carousel"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:84
+msgid "Showcase the latest posts from a category on your homepage, with the Pro version you have a number of extra style options to display your featured posts, including a slider or carousel."
+msgstr ""
+
+#: inc/setup/sections/freepro.php:96
+msgid "WooCommerce Integration"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:97
+msgid "We have added a beautiful WooCommerce integration to the Pro version, meaning you can sell items with your very own store. Powering nearly 30% of online shops, WooCommerce gives you an unrivalled feature set to begin selling online."
+msgstr ""
+
+#: inc/setup/sections/freepro.php:109
+msgid "Reviews Post Type"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:110
+msgid "The Pro version includes a new Review post type. Easily add reviews of products and add your own criteria for the rating. You can even include an affiliate link with the review for monetizing your blog. All of which is 100% schema compliant, to ensure your articles are indexed as reviews when searching on Google."
+msgstr ""
+
+#: inc/setup/sections/freepro.php:122
+msgid "Instagram Footer"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:123
+msgid "In the Pro version you will be able to easily drop in an Instagram row next to your footer to show off your brand and to keep your site looking as fresh as the photos you take."
+msgstr ""
+
+#: inc/setup/sections/freepro.php:135
+msgid "No Credit Footer Link"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:136
+msgid "Remove or edit the \"Proudly powered by WordPress Theme: jefferson by Create and Code\" copyright notice from the footer area."
+msgstr ""
+
+#: inc/setup/sections/freepro.php:148
+msgid "Fantastic Support"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:149
+msgid "Our Pro customers receive access to world-class customer support from the actual people who have built the themes. We reply to tickets speedily and efficiently - you will be in very good hands if you have any questions."
+msgstr ""
+
+#: inc/setup/sections/freepro.php:164
+msgid "Get jefferson Pro by joining the Create and Code Theme Club! Get every new release, updates and superb support for 1 year. <strong>SAVE a Whopping 30%</strong> with the code <strong>CCTHEME30</strong>"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:165, inc/setup/sections/intro.php:78, inc/setup/sections/themeclub.php:20
+msgid "Shop Themes Now"
+msgstr ""
+
+#: inc/setup/sections/intro.php:18
+msgid "Welcome to jefferson!"
+msgstr ""
+
+#: inc/setup/sections/intro.php:30
+msgid "jefferson Theme Documentation"
+msgstr ""
+
+#: inc/setup/sections/intro.php:31
+msgid "We provide lots of theme documentation articles including a detailed installation and setup guide on our website. A demo data file is also provided to get you up and running quickly."
+msgstr ""
+
+#: inc/setup/sections/intro.php:32
+msgid "View Theme Documentation"
+msgstr ""
+
+#: inc/setup/sections/intro.php:36
+msgid "Theme Options"
+msgstr ""
+
+#: inc/setup/sections/intro.php:37
+msgid "The jefferson Theme Customizer enables you to customize many elements of the theme directly without any coding skills. This includes options such as uploading your logo, changing the primary color, and much more."
+msgstr ""
+
+#: inc/setup/sections/intro.php:39
+msgid "To access the Customizer, go to"
+msgstr ""
+
+#: inc/setup/sections/intro.php:39
+msgid "Appearance → Customize"
+msgstr ""
+
+#: inc/setup/sections/intro.php:39
+msgid "in the WordPress admin menu."
+msgstr ""
+
+#: inc/setup/sections/intro.php:40
+msgid "When you are finished making changes, click"
+msgstr ""
+
+#: inc/setup/sections/intro.php:40
+msgid "Save & Publish"
+msgstr ""
+
+#: inc/setup/sections/intro.php:40
+msgid "to save the settings. Check out your site to confirm your changes."
+msgstr ""
+
+#: inc/setup/sections/intro.php:43
+msgid "Launch the Customizer"
+msgstr ""
+
+#: inc/setup/sections/intro.php:47
+msgid "How to Speed up WordPress"
+msgstr ""
+
+#: inc/setup/sections/intro.php:48
+msgid "If you are having performance problems with your site, you have come to the right place. By the end of this journey you will be rocking a blisteringly fast WordPress website!"
+msgstr ""
+
+#: inc/setup/sections/intro.php:50
+msgid "Read our Speed Article"
+msgstr ""
+
+#: inc/setup/sections/intro.php:54
+msgid "How to Translate your Website"
+msgstr ""
+
+#: inc/setup/sections/intro.php:55
+msgid "In this article we describe how you can easily make your website multilingual without investing dozens of hours into translation."
+msgstr ""
+
+#: inc/setup/sections/intro.php:57
+msgid "Read our Translation Article"
+msgstr ""
+
+#: inc/setup/sections/intro.php:69
+msgid "The Create and Code Theme Club"
+msgstr ""
+
+#: inc/setup/sections/intro.php:70
+msgid "Download our entire collection of premium themes, new releases and get expert support!"
+msgstr ""
+
+#: inc/setup/sections/intro.php:73
+msgid "Exclusive Discount! Use the code"
+msgstr ""
+
+#: inc/setup/sections/intro.php:74
+msgid "CCTHEME30"
+msgstr ""
+
+#: inc/setup/sections/intro.php:75
+msgid "to get 30% off Theme Club membership."
+msgstr ""
+
+#: inc/setup/sections/intro.php:83
+msgid "Do you like jefferson?"
+msgstr ""
+
+#: inc/setup/sections/intro.php:84
+msgid "Could you please do us a HUGE favor and give the theme a 5-star rating on WordPress? Help us spread the word!"
+msgstr ""
+
+#: inc/setup/sections/intro.php:86
+msgid "Leave a Review"
+msgstr ""
+
+#: inc/setup/sections/intro.php:87
+msgid "Thank you so much!"
+msgstr ""
+
+#: inc/setup/sections/intro.php:92
+msgid "Join our Facebook group!"
+msgstr ""
+
+#: inc/setup/sections/intro.php:93
+msgid "Get tips, tricks and support from the Create & Code Community. We would also love to see what you have created with our WordPress thenes. Share your work with the community!"
+msgstr ""
+
+#: inc/setup/sections/intro.php:95
+msgid "Join now"
+msgstr ""
+
+#: inc/setup/sections/themeclub.php:19
+msgid "Join the Create and Code Theme Club to download all the themes below! Get every new release, updates and superb support for a year. <strong>SAVE a Whopping 30%</strong> with the code <strong>CCTHEME30</strong>"
+msgstr ""
+
+#: inc/setup/sections/themeclub.php:35
+msgid "Production Pro"
+msgstr ""
+
+#: inc/setup/sections/themeclub.php:38
+msgid "Production Pro is a highly-polished, precision designed WordPress theme perfect for industrial, construction, factory and engineering businesses."
+msgstr ""
+
+#: inc/setup/sections/themeclub.php:47, trt-customize-pro/inc/class-customize.php:76
+msgid "jefferson Pro"
+msgstr ""
+
+#: inc/setup/sections/themeclub.php:50
+msgid "The Pro version of jefferson takes things to the next level. With a homepage slider option, a grid layout for your articles and much much more."
+msgstr ""
+
+#: inc/setup/sections/themeclub.php:59
+msgid "Clinic Pro"
+msgstr ""
+
+#: inc/setup/sections/themeclub.php:62
+msgid "An ideal theme for those running any kind of clinic, doctors office, dentist, physio, or hospital. With a sharp look, you will have a beautiful website to present to patients."
+msgstr ""
+
+#: inc/setup/sections/themeclub.php:71
+msgid "StartRight Pro"
+msgstr ""
+
+#: inc/setup/sections/themeclub.php:74
+msgid "Our flagship theme, StartRight Pro, is a beautiful theme for small businesses and startups. Avoid headaches and start the right way with StartRight."
+msgstr ""
+
+#: inc/setup/sections/themeclub.php:83
+msgid "Judgement Pro"
+msgstr ""
+
+#: inc/setup/sections/themeclub.php:86
+msgid "A stylish theme for lawyers, solicitors, and legal practices, Judgement will ensure that your firm stands out from the crowd with an elegant, professional feel."
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:157
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:165
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:165
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:165
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:182
+msgctxt "list item separator"
+msgid " "
+msgstr ""
+
+#: inc/template-tags.php:185
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:201
+msgid " "
+msgstr ""
+
+#: inc/template-tags.php:204
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:226, inc/template-tags.php:231
+msgctxt "post author"
+msgid "Posted by %s"
+msgstr ""
+
+#: inc/template-tags.php:371
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/template-tags.php:371
+msgid "Share"
+msgstr ""
+
+#: inc/template-tags.php:372
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/template-tags.php:372
+msgid "Tweet"
+msgstr ""
+
+#: inc/template-tags.php:373
+msgid "Pin it on Pinterest"
+msgstr ""
+
+#: inc/template-tags.php:373
+msgid "Pin It"
+msgstr ""
+
+#: inc/template-tags.php:381
+msgid "Next Story:"
+msgstr ""
+
+#: inc/template-tags.php:499, template-parts/content-fullwidthpage.php:14, template-parts/content-page.php:14
+msgid "Pages:"
+msgstr ""
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: trt-customize-pro/inc/class-customize.php:77
+msgid "View Pro Features"
+msgstr ""
